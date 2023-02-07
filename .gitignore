@@ -183,5 +183,3 @@ poetry.toml
 
 # End of https://www.toptal.com/developers/gitignore/api/python,jupyternotebooks
 
-# ignore the extracted notebook
-app.py
